@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #E9E9E9;
+}
+
+header{
+  height: 50px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 1px 1px 1px #888888;
+}
+
+article{
+  margin: 10px;
+  width: 236px;
+  background-color: white;
+  border-radius: 9px;
+  box-shadow: 1px 1px 1px #444444;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.contenido{
+  width: 97%;
+  background-color: #E9E9E9;
+  column-count: 4;
+}
